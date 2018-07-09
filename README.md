@@ -10,7 +10,7 @@ Program workflow:<br />
 	3. python NormalCNN.py: The defined model is trained with 3 fold cross validation and stored with h5 extension<br />
 	4. python recognize_gesture_WithCV.py: This is the main application that predicts any gesture in real-time<br />
 	
-You can display all gestures by running display_all_gestures.py
+You can display all gestures by running display_all_gestures.py<br />
 predict_batch.py and predict_OneImage are used for testing purposes
 
 
